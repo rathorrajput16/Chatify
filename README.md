@@ -1,4 +1,4 @@
-# 💬 Real-Time Chat Application
+# 💬 CHATIFY: Real-Time Chat Application
 
 A full-stack real-time chat application built from scratch, focusing on core backend engineering, real-time communication, and clean system architecture.
 
